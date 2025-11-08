@@ -34,6 +34,7 @@ Built using:
 
 ## 🗂️ Folder Structure
 
+```bash
 Orderly/
 │
 ├── backend/
