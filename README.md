@@ -37,21 +37,21 @@ Built using:
 Orderly/
 │
 ├── backend/
-│ ├── index.ts # Express server setup
-│ ├── routes/ # Product and order routes
-│ ├── controllers/ # Business logic for each API
-│ ├── db.ts # MySQL connection config
-│ ├── package.json
+│   ├── index.ts                # Express server setup
+│   ├── routes/                 # Product and order routes
+│   ├── controllers/            # Business logic for each API
+│   ├── db.ts                   # PostgreSQL connection config
+│   ├── package.json
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── api/ # Axios API services
-│ │ ├── components/ # React components
-│ │ ├── App.tsx
-│ │ ├── index.tsx
-│ │ ├── index.css
-│ ├── tsconfig.json
-│ ├── package.json
+│   ├── src/
+│   │   ├── api/                # Axios API services
+│   │   ├── components/         # React components
+│   │   ├── App.tsx
+│   │   ├── index.tsx
+│   │   ├── index.css
+│   ├── tsconfig.json
+│   ├── package.json
 │
 └── README.md
 
